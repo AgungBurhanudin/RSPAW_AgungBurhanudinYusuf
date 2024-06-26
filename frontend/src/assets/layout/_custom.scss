@@ -1,0 +1,71 @@
+h1.xs,
+h2.xs,
+h3.xs,
+h4.xs,
+h5.xs,
+h6.xs {
+    margin: 0.5rem 0 0.1rem 0 !important;
+}
+
+h1.xs {
+    font-size: 2rem !important;
+}
+
+h2.xs {
+    font-size: 1.75rem !important;
+}
+
+h3.xs {
+    font-size: 1.5rem !important;
+}
+
+h4.xs {
+    font-size: 1.25rem !important;
+}
+
+h5.xs {
+    font-size: 1rem !important;
+}
+
+h6.xs {
+    font-size: 0.75rem !important;
+}
+
+input.xs {
+    padding: 0.15rem 0.75rem !important;
+}
+
+.p-button.xs {
+    padding: 0.25rem 0.5rem !important;
+}
+
+.p-button-icon-only.xs {
+    padding: 0.25rem 0.5rem !important;
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
+
+.p-dropdown.xs {
+    height: 25px;
+    .p-dropdown-label {
+        padding: 0.2rem 0.75rem;
+    }
+}
+
+.p-multiselect.xs {
+    height: 25px;
+    .p-multiselect-label {
+        padding: 0.2rem 0.75rem;
+    }
+}
+
+.p-calendar.xs {
+    height: 25px;
+    .p-multiselect-label {
+        padding: 0.2rem 0.75rem;
+    }
+}
+
+.field.xs {
+    margin-bottom: 0.3rem;
+}
